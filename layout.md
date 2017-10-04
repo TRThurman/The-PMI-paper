@@ -11,6 +11,7 @@ kt55arlad4o.html
 figures/flowchartPMI
 9v2apgqafcg.html
 ogh21nfm9k.html
+figures/pmitaxonomy
 hcqiool9ok.html
 jrb1hmo3u88.html
 m3ohfslefso.html
