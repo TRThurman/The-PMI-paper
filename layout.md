@@ -13,6 +13,7 @@ figures/flowchartPMI
 ogh21nfm9k.html
 figures/pmitaxonomy
 hcqiool9ok.html
+figures/piecepart
 pjqfatjjg8o.html
 jrb1hmo3u88.html
 m3ohfslefso.html
