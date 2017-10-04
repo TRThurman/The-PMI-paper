@@ -6,6 +6,7 @@ de30b5jqcm.html
 figures/figure1ofPMIarticle
 l5ubbqujh3o.html
 sknf90r2nag.html
+figures/activitymodel
 8flfnvihc7g.html
 m3ohfslefso.html
 i47mamki1pg.html
