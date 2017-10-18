@@ -1,5 +1,5 @@
 ```
-<The simple_datum_reference_modifier include:
+The simple_datum_reference_modifier include:
 •	free_state,
 •	basic,
 •	translation,
