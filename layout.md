@@ -28,7 +28,4 @@ ga1tqr786vs.md
 i47mamki1pg.html
 nvd6q1h7s2.html
 mbnt820vge8.html
-b521to2hlpg.html
-iqe8k2v08so.html
-untitled.html
 4di741co7o4.html
