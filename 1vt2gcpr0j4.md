@@ -1,5 +1,5 @@
 ```
-	angularity_tolerance,
+•	angularity_tolerance,
 •	circular_runout_tolerance,
 •	coaxiality_tolerance,
 •	concentricity_tolerance,
