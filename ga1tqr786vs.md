@@ -21,5 +21,4 @@ The simple_datum_reference_modifier include:
 •	degree_of_freedom_constraint_w,
 •	minor_diameter, major_diameter,
 •	pitch_diameter.
-
 ```
