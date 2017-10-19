@@ -16,6 +16,13 @@ hcqiool9ok.html
 figures/piecepart
 pjqfatjjg8o.html
 mskho5cuqp8.html
+f2gl9csr8.html
+h20vbvcqau8.html
+cob1gdv8u5k.html
+rnv7211d79k.html
+bi33pankoko.html
+p9fg8hm1ne8.html
+e48sqn07c8s.html
 8qr4nqunkig.html
 figures/PMItimeline
 o5tc6586ebg.html
