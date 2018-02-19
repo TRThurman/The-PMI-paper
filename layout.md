@@ -9,6 +9,7 @@ figures/1810-1811-1812-1816
 0u3839qv19c.html
 sknf90r2nag.html
 8flfnvihc7g.html
+figures/design and manufacture product - design and manufacture product
 kt55arlad4o.html
 figures/flowchartPMI
 9v2apgqafcg.html
