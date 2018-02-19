@@ -31,7 +31,6 @@ bi33pankoko.html
 p9fg8hm1ne8.html
 e48sqn07c8s.html
 8qr4nqunkig.html
-figures/PMItimeline
 o5tc6586ebg.html
 ol146m342r.html
 qtevv490odg.html
