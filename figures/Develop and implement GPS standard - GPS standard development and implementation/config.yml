@@ -9,8 +9,7 @@ grid:
   columns: 1
   grid_elements:
   - path: figures/Develop and implement GPS standard - GPS standard development and
-      implementation/Develop and implement GPS standard - GPS standard development
-      and implementation.svg
+      implementation/Develop and implement GPS standard.svg
     type: static
     from:
     - 1
@@ -18,4 +17,6 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/103073/articles/180404/master/file/figures/Develop%20and%20implement%20GPS%20standard%20-%20GPS%20standard%20development%20and%20implementation/Develop%20and%20implement%20GPS%20standard%20-%20GPS%20standard%20development%20and%20implementation.svg"
+    folder_url: "/users/103073/articles/180404/master/folder/figures/Develop and implement
+      GPS standard - GPS standard development and implementation"
+    url: "/users/103073/articles/180404/master/file/figures/Develop%20and%20implement%20GPS%20standard%20-%20GPS%20standard%20development%20and%20implementation/Develop%20and%20implement%20GPS%20standard.svg"
