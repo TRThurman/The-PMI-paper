@@ -18,6 +18,8 @@ figures/pmitaxonomy
 hcqiool9ok.html
 figures/piecepart
 pjqfatjjg8o.html
+figures/pmi_graphical_timeline
+ko980k2d9og.html
 mskho5cuqp8.html
 f2gl9csr8.html
 h20vbvcqau8.html
