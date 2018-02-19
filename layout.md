@@ -48,3 +48,5 @@ hqvv5epl5hg.html
 j419bgh4ark.html
 9qqjatu8i4s.md
 qnct55lobns.html
+figures/Weldmt - Window Assy 2-2-between
+uqm6ak7fs08.html
