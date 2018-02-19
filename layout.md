@@ -5,6 +5,8 @@ de30b5jqcm.html
 0kj0lv57ojo.html
 figures/figure1ofPMIarticle
 l5ubbqujh3o.html
+figures/1810-1811-1812-1816
+0u3839qv19c.html
 sknf90r2nag.html
 8flfnvihc7g.html
 kt55arlad4o.html
