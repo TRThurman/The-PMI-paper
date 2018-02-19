@@ -37,6 +37,8 @@ qtevv490odg.html
 jrb1hmo3u88.html
 m3ohfslefso.html
 9l3fv9btbd.html
+figures/datum_system
+at7l6kbr4ls.html
 ga1tqr786vs.md
 i47mamki1pg.html
 4di741co7o4.html
