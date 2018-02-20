@@ -9,7 +9,7 @@ grid:
   columns: 1
   grid_elements:
   - path: figures/design and manufacture product - design and manufacture product/design
-      and manufacture product - design and manufacture product.svg
+      and manufacture product.svg
     type: static
     from:
     - 1
@@ -19,4 +19,4 @@ grid:
     - 1
     folder_url: "/users/103073/articles/180404/master/folder/figures/design and manufacture
       product - design and manufacture product"
-    url: "/users/103073/articles/180404/master/file/figures/design%20and%20manufacture%20product%20-%20design%20and%20manufacture%20product/design%20and%20manufacture%20product%20-%20design%20and%20manufacture%20product.svg"
+    url: "/users/103073/articles/180404/master/file/figures/design%20and%20manufacture%20product%20-%20design%20and%20manufacture%20product/design%20and%20manufacture%20product.svg"
