@@ -1,0 +1,784 @@
+Bug ID,Component,Summary,Keywords,Target Milestone
+4912,0041 Fundamentals of product description and support,"event_occurrence_context_assignment, Part 41 CR9 ballot comments","AP233, AP239",SMRLv5
+4906,0041 Fundamentals of product description and support,Part 41 EXPRESS changes for SMRLv5,"AP209, AP210, AP233, AP239, AP242",SMRLv5
+4775,0041 Fundamentals of product description and support,Part 41 CR9 ballot comments,"AP209, AP210, AP233, AP239, AP242",SMRLv5
+4762,0041 Fundamentals of product description and support,shape_representation_relationship.WR1,,SMRLv5
+4609,0041 Fundamentals of product description and support,Remove MLRD in characterized_product_definition,,CR8
+3523,0041 Fundamentals of product description and support,Extend item_identified_representation_usage.definition for dimension_size and geometric_tolerance,GD&T,CR9
+4468,0041 Fundamentals of product description and support,New: product_definition_reference,EER,CR9
+4471,0041 Fundamentals of product description and support,New: externally_defined_item_chain,EER,CR9
+4472,0041 Fundamentals of product description and support,New: component_path_shape_aspect,EER,CR9
+4181,0041 Fundamentals of product description and support,Extend externally_defined_item for chain/path,"AP242, EER",CR9
+4079,0041 Fundamentals of product description and support,Collector bug for part 41 edition 4,AP242,CR9
+4526,0041 Fundamentals of product description and support,annex F incomplete,AP242,CR9
+3369,0041 Fundamentals of product description and support,"shape_definition_representation.wr1,wr2 attribute qualification",AP242,CR9
+4465,0041 Fundamentals of product description and support,add unique RULE to shape_aspect,"AP242, EER, GD&T",CR9
+3938,0041 Fundamentals of product description and support,product_definition_schema.product_definition_effectivity.wr1 error,"AP242, GD&T",CR9
+4131,0041 Fundamentals of product description and support,Rules on chain_based_item_identified_representation_usage,AP242,CR9
+3644,0041 Fundamentals of product description and support,Ambiguous attribute reference in WR1 of shape_definition_representation,,CR9
+3339,0041 Fundamentals of product description and support,Don't allow subtypes of products,AP242,CR9
+3818,0041 Fundamentals of product description and support,"Instantiation of unit ""Pound force""",,CR9
+3929,0041 Fundamentals of product description and support,Chain for characterized_item_within_representation,AP242,CR9
+4110,0041 Fundamentals of product description and support,Wrong rep_1 and _2 direction for new chain_based entities,AP242,CR9
+3470,0041 Fundamentals of product description and support,Properties for representation and representation_item,GD&T,CR9
+3820,0041 Fundamentals of product description and support,Requirement to reference elements in one STEP file from another STEP file I,"AP242, EER",CR9
+4014,0041 Fundamentals of product description and support,Merge Reference Froms,,CR9
+4737,0041 Fundamentals of product description and support,update acyclic_product_definition_relationship with product_definition_or_reference,,CR9
+4184,0041 Fundamentals of product description and support,Instantiation error in clause F4.4,SEDS,CR9
+4495,0041 Fundamentals of product description and support,s_role_select name issue,"AP209, AP210, AP242",CR9
+4483,0041 Fundamentals of product description and support,change basic attributes selects to be extensible,"AP242, EER, GD&T",CR9
+4448,0041 Fundamentals of product description and support,p41: All additional descriptions for inherited attributes that are not re-declared.,,CR9
+4147,0041 Fundamentals of product description and support,reference_in with chain,"AP242, EER",CR9
+4474,0041 Fundamentals of product description and support,New: reflected_shape_aspect,EER,CR9
+4487,0041 Fundamentals of product description and support,item_identified_representation_usage for several items,"AP210, AP242, EER, GD&T",CR9
+4211,0041 Fundamentals of product description and support,missing attribute description,AP242,CR9
+4469,0041 Fundamentals of product description and support,"New single_level_reference_designator, a relationship between 2 product_definition_references",EER,CR9
+4511,0041 Fundamentals of product description and support,Work_request.version_id is mandatory - should be optional,,CR9
+4414,0041 Fundamentals of product description and support,Effectivity: Optional start date,,CR9
+4780,0041 Fundamentals of product description and support,Re-declaration of shape_definition_representation.definition,,CR9
+4738,0042 Geometric and topological representation,Brian's comments on CR8-P42,AP242,SMRLv5
+4213,0042 Geometric and topological representation,Annex B schema numbering for p42,,SMRLv5
+4680,0042 Geometric and topological representation,wrong syntax in 4.2.3 description,AP242,SMRLv5
+4208,0042 Geometric and topological representation,Converting part42 into a stepmod-xml document,AP242,CR8
+2579,0042 Geometric and topological representation,SEDS #1292 p42: unitialized variables add to ambiguity,AP242,CR8
+2589,0042 Geometric and topological representation,"SEDS #1244, US-24: FUNCTION dimension_of",AP242,CR8
+4022,0042 Geometric and topological representation,P42 collector bug for AP242,AP242,CR8
+3971,0042 Geometric and topological representation,"naming axis x,y,z and is the geometric_representation_context rectangular cartesian?",AP242,CR8
+4159,0042 Geometric and topological representation,Extend p42 for tessellated geometry,,CR8
+4182,0042 Geometric and topological representation,Allow to split coordinate_list into smaller blocks,,CR9
+4180,0042 Geometric and topological representation,Extending tessellation for 2D,,CR9
+4470,0044 Product structure configuration,New multi_level_reference_designator,EER,CR9
+4703,0044 Product structure configuration,multi_level_reference_designator.location contains redundant data,EER,CR9
+3365,0044 Product structure configuration,configuration_effectivity.ur1 group qualifications,AP242,CR9
+4705,0044 Product structure configuration,SHUO example figure E.10 and description are wrong,,CR9
+4746,0044 Product structure configuration,add schema version number,AP242,CR9
+4632,0044 Product structure configuration,Update description of unambiguously_specified_multi_level_reference_designator,,CR9
+4607,0044 Product structure configuration,Broken part 44 ed2 PDF document in published SMRL,,CR9
+4473,0044 Product structure configuration,Make next_assembly_usage_occurrence.reference_designator mandatory,EER,CR9
+4704,0044 Product structure configuration,subtype constraints for assembly_component_usage,,CR9
+4239,0044 Product structure configuration,MLAUO: multi_level_assembly_usage_occurrence,"AP242, EER",CR9
+4757,0044 Product structure configuration,No captions on EXPRESS-G  Figures,,CR9
+4187,0045 Material and other engineering properties,add format qualifier to value_qualifier in IR p45,"AP242, GD&T",CR9
+4170,0045 Material and other engineering properties,Need the ability to represent the display format of a number for GDT,"AP242, GD&T",CR9
+4577,0045 Material and other engineering properties,new format specification required for variable length integer and frational part,GD&T,CR9
+4776,0046 Visual Presentation,Styled_item.affected_item,"AP209, AP210, AP242",SMRLv5
+4792,0046 Visual Presentation,"curve_style: Make font, width and color OPTIONAL",,SMRLv5
+3946,0046 Visual Presentation,mapped_item not a subtype of geometric_rep_item,"AP242, GD&T",CR7_242-1-CD
+4111,0046 Visual Presentation,Orientation of 2D presentation axis.,AP242,CR9
+4560,0046 Visual Presentation,styling and visibility of assembly components,AP242,CR9
+4747,0046 Visual Presentation,add schema version number,AP242,CR9
+4442,0046 Visual Presentation,"Wrong axis in ""Figure 3 —  Example of a presentation hierarchy""",,CR9
+4449,0046 Visual Presentation,layout error in symbol_style_select,,CR9
+4736,0047 Shape variation tolerances,part 47 includes a reference to a module,"AP209, AP210, AP242",SMRLv5
+4897,0047 Shape variation tolerances,figure numbering incorrect in description files,,SMRLv5
+3648,0047 Shape variation tolerances,Extend geometric_tolerance.toleranced_shape_aspect for dimensions and ALL OVER,GD&T,CR7 GD&T
+3009,0047 Shape variation tolerances,ASME Y 14.41: Geometric Tolerance Modifiers,"GD&T, Informal_IR_Comp",CR7 GD&T
+3948,0047 Shape variation tolerances,general_datum_reference.wr2 problem,GD&T,CR7 GD&T
+3023,0047 Shape variation tolerances,SEDS #1420: shape_dimension_representation.wr2,GD&T,CR7 GD&T
+3043,0047 Shape variation tolerances,ISO 14660-1: Real and extracted feature and surface of a workpiece,GD&T,CR7 GD&T
+3940,0047 Shape variation tolerances,"""datum feature of size""",GD&T,CR7 GD&T
+3932,0047 Shape variation tolerances,problems with shape_tolerance_schema express rev 1.17,GD&T,CR7 GD&T
+3725,0047 Shape variation tolerances,each radial element discussion,GD&T,CR7 GD&T
+3744,0047 Shape variation tolerances,Datum_system / Datum Reference Frame / Common Datum,GD&T,CR7 GD&T
+3760,0047 Shape variation tolerances,need ONEOFs for shape_aspect subtypes,GD&T,CR7 GD&T
+3183,0047 Shape variation tolerances,"Different meaning of ""line""",GD&T,CR7 GD&T
+4031,0047 Shape variation tolerances,Merge AIC519 into shape_tolerance_schema of p47,GD&T,CR7 GD&T
+4044,0047 Shape variation tolerances,Miss REFERENCE FROM qualified_measure_schema(measure_representation_item),GD&T,CR7 GD&T
+3650,0047 Shape variation tolerances,Normative references,GD&T,CR7 GD&T
+4063,0047 Shape variation tolerances,symmetric_shape_aspect: Wrong directions enforced for inverse and rule,GD&T,CR7 GD&T
+3670,0047 Shape variation tolerances,General clauses for p47 shape_tolerance_schema,GD&T,CR7 GD&T
+3713,0047 Shape variation tolerances,comon zone in feature control frame discussion,GD&T,CR7 GD&T
+3721,0047 Shape variation tolerances,reciprocity requirement discussion,GD&T,CR7 GD&T
+3731,0047 Shape variation tolerances,Conflict between common_datum and datum_reference,GD&T,CR7 GD&T
+3758,0047 Shape variation tolerances,Non-Uniform and Displacement of tolerance zone,GD&T,CR7 GD&T
+3790,0047 Shape variation tolerances,missing USE FROMs,GD&T,CR7 GD&T
+3857,0047 Shape variation tolerances,Max. number of datum reference compartments is 3 if allowed at all,GD&T,CR7 GD&T
+3186,0047 Shape variation tolerances,Additional Geometric Tolerance Modifiers (p47),GD&T,CR7 GD&T
+4028,0047 Shape variation tolerances,Part 47 Collector bug for CR7,GD&T,CR7 GD&T
+3554,0047 Shape variation tolerances,shape_dimension_representation inconsistencies,GD&T,CR7 GD&T
+4036,0047 Shape variation tolerances,A geometric_tolerance must be one of the specific types defined in ISO 1101,GD&T,CR7 GD&T
+4046,0047 Shape variation tolerances,"Allow both, datum_feature and datum_target for a datum",GD&T,CR7 GD&T
+4073,0047 Shape variation tolerances,Ensure that geometric_tolerance.toleranced_shape_aspect is for a single product_definition_shape,GD&T,CR7 GD&T
+3671,0047 Shape variation tolerances,Constraints on geometric_tolerance.toleranced_shape_aspect,GD&T,CR7 GD&T
+3714,0047 Shape variation tolerances,maximum value discussion in the context of feature control frame,GD&T,CR7 GD&T
+3724,0047 Shape variation tolerances,ACS discussion,GD&T,CR7 GD&T
+3737,0047 Shape variation tolerances,Additional non-normative string values for geometric tolerances,GD&T,CR7 GD&T
+3759,0047 Shape variation tolerances,make derived_shape_aspect and shape_aspect_deriving_relationship structure explicit,GD&T,CR7 GD&T
+3816,0047 Shape variation tolerances,uniqueness of Datum_system ?,GD&T,CR7 GD&T
+3558,0047 Shape variation tolerances,Modifiers for referenced_modified_datum / limit_condition,GD&T,CR7 GD&T
+3649,0047 Shape variation tolerances,Clarification required for dimension_related_tolerance_zone_element,GD&T,CR7 GD&T
+4049,0047 Shape variation tolerances,Tolerance zone for dimensions,GD&T,CR7 GD&T
+3668,0047 Shape variation tolerances,"line_profile_tolerance.wr2 on ""affected plane""",GD&T,CR7 GD&T
+4115,0047 Shape variation tolerances,dimensional_location related and relating must go to different shape_aspects of the same product_definition_shape,GD&T,CR7 GD&T
+3691,0047 Shape variation tolerances,statistical tolerance discussion,GD&T,CR7 GD&T
+3715,0047 Shape variation tolerances,datum reference modified by value in the context of a feature control frame discussion,GD&T,CR7 GD&T
+4107,0047 Shape variation tolerances,deprecate symmetric_shape_aspect,GD&T,CR7_242-1-CD
+4139,0047 Shape variation tolerances,Mapping of Angular_location.orientation,"AP242, GD&T",CR9
+3723,0047 Shape variation tolerances,"""between"" - Continuous, non closed toleranced feature",GD&T,CR9
+3945,0047 Shape variation tolerances,ISO 1101:2012 Intersection and Orientation Plane,"AP242, GD&T",CR9
+3976,0047 Shape variation tolerances,Projected tolerance for datum reference,"AP242, GD&T",CR9
+4176,0047 Shape variation tolerances,P47 Ed2 collector bug,"AP242, GD&T",CR9
+4748,0047 Shape variation tolerances,add schema version to resource.xml,AP242,CR9
+4618,0047 Shape variation tolerances,rectangular must be qualified,AP242,CR9
+4143,0047 Shape variation tolerances,centre_of_symmetry versus symmetric_shape_aspect for a slot,"AP242, GD&T",CR9
+4406,0047 Shape variation tolerances,description of subtype_exclusiveness_geometric_tolerance,GD&T,CR9
+4228,0047 Shape variation tolerances,dimensional_location related and relating must go to same product_definition_shape,,CR9
+4544,0047 Shape variation tolerances,"All around and ""compound contiguous feature""",GD&T,CR9
+4238,0047 Shape variation tolerances,clarification on datum_feature when used for a feature of size,GD&T,CR9
+2574,0050 Mathematical representation,FUNCTION derive_function_range,AP209,SMRLv5
+4114,0050 Mathematical representation,linearized_table_function EXPRESS error,AP209,SMRLv5
+5046,0050 Mathematical representation,Function stripped_typeof needs to distinguish simple data types,,SMRLv5
+5020,0050 Mathematical representation,see BugZilla #5018,,SMRLv5
+5053,0050 Mathematical representation,P50: Type mismatch in call of make_extended_tuple_space,,SMRLv5
+5059,0050 Mathematical representation,change tuple_space to support::Entity mesh_derived_math_space shall be a tuple_space,,SMRLv5
+5073,0050 Mathematical representation,Error 2 is falsely reported in some of the IRs,,SMRLv6
+1109,0050 Mathematical representation,stripped_typeof in part 50,AP209,CR9
+979,0050 Mathematical representation,added polar complex_number_literal,AP209,CR9
+3965,0050 Mathematical representation,non-aggregate indexing issues,AP209,CR9
+4621,0050 Mathematical representation,"symetric_matrix wr3, wr4 enumeration qualification error",AP209,CR9
+4617,0052 Mesh-based topology,TC for part 52,AP242,SMRLv5
+4893,0052 Mesh-based topology,attribute qualification problem,AP209,SMRLv5
+4787,0052 Mesh-based topology,missinge mesh_topology_schema.htm file,,SMRLv5
+3439,0052 Mesh-based topology,"No ""polygon"" cell_shape enumeration item in mesh_topology_schema",AP209,CR9
+4751,0059 Quality of product shape data,add schema version to schema tag in resource.xml,,SMRLv5
+3936,0059 Quality of product shape data,spelling error in PDQ-S function validate_accuracy_types,AP242,CR9
+3941,0059 Quality of product shape data,attribute qualification issue,AP242,CR9
+4033,0059 Quality of product shape data,Product data quality definition module: EXTENSIBLE GENERIC_ENTITY SELECT,AP242,CR9
+4040,0059 Quality of product shape data,error in function value_limit_type,AP242,CR9
+3266,0059 Quality of product shape data,JSDAI compilation errors,AP242,CR9
+4030,0059 Quality of product shape data,Use old shape_data_quality_criteria_schema for PDQ-S,AP242,CR9
+2663,0061 Systems engineering representation,Part 61 needs new N numbers,,SMRLv6
+3967,0061 Systems engineering representation,collector bug for part 61,AP233,SMRLv6
+4739,0101 Draughting,Brian's comments on CR8-101,AP242,SMRLv5
+4659,0101 Draughting,ASN.1 identifier error,AP242,SMRLv5
+4103,0101 Draughting,"""wr1"" in entity ""projection_directed_callout"" is too strong",,CR9
+4013,0101 Draughting,Merge Reference Froms,,CR9
+4102,0101 Draughting,"""wr1"" in entity ""dimension_curve_directed_callout"" is too strong",,CR9
+4179,0101 Draughting,Callouts and annotations of tessellated geometry,,CR9
+3547,0104 Finite element analysis,Weak typing in function consistent_element_or_group_reference,AP209,SMRLv5
+4477,0104 Finite element analysis,EXPRESS and XML of P104 structural_response_representation_schema not updated to TC,SEDS,SMRLv5
+4801,0104 Finite element analysis,FUNCTION variable_value_type returns improper value for surface_tensor2_2d_variable.,,SMRLv5
+4620,0104 Finite element analysis,enumeration reference qualification issue in p104,AP209,SMRLv5
+4755,0105 Kinematics,bibliography sequence in 105,,SMRLv5
+4848,0105 Kinematics,not valid according to DTD,AP242,SMRLv5
+4041,0105 Kinematics,kinematic_structure_schema errors,AP242,CR7_242-1-CD
+4061,0105 Kinematics,Reworking the kinematic_motion_representation_schema,AP242,CR7_242-1-CD
+3380,0105 Kinematics,errors in calls to frame_associated_to_background,AP242,CR9
+3378,0105 Kinematics,kinematic_structure_schema error,AP242,CR9
+4055,0105 Kinematics,axis2_placement_3d allowed for kinematic_link_representation.items ?,AP242,CR9
+4072,0105 Kinematics,Enhancements on Kinematic_pair,AP242,CR9
+4056,0105 Kinematics,kinematic entities in selects (extensions),AP242,CR9
+3379,0105 Kinematics,error in kinematic_pair WRs,AP242,CR9
+4057,0105 Kinematics,Reworking the kinematic_analysis_control_and_result_schema,,CR9
+4086,0105 Kinematics,Collector bug for part 105 ed 2,,CR9
+4702,0105 Kinematics,Update of p105 figure 5 Examples of gear pairs in different situations,,CR9
+4129,0105 Kinematics,New unconstrained_pair_with_range,,CR9
+4407,0105 Kinematics,Change text in Kinematic state clause 7.1 and 7.2,,CR9
+4130,0105 Kinematics,Add constraint of the kinematic_link_representations within a mechanism_representation,,CR9
+4240,0105 Kinematics,Extend rigid_placement to allow externally_defined_item,"AP242, EER",CR9
+4165,0105 Kinematics,Update of Figure 8 Example of a joint representing a planar pair,AP242,CR9
+3709,0107 Finite element analysis definition relationships,Missing Figure 1,AP209,SMRLv5
+4843,0108 Parameterization and constraints for explicit geometric pro,EXPRESS changes in variational_representation_schema,AP209,SMRLv5
+4579,0108 Parameterization and constraints for explicit geometric pro,EXPRESS errors in part 108 --TC2 document needed,AP242,SMRLv5
+3939,0108 Parameterization and constraints for explicit geometric pro,EXPRESS errors in part 108,AP242,CR9
+3377,0108 Parameterization and constraints for explicit geometric pro,error in function in variational_representation_schema,,CR9
+3598,0108 Parameterization and constraints for explicit geometric pro,invalidate_vrep_item error,,CR9
+3375,0108 Parameterization and constraints for explicit geometric pro,error in function in variational_representation_schema,,CR9
+3629,0108 Parameterization and constraints for explicit geometric pro,invalidate_vrep_item problem,,CR9
+3376,0108 Parameterization and constraints for explicit geometric pro,error in function in variational_representation_schema,,CR9
+4098,0108 Parameterization and constraints for explicit geometric pro,RETURN statement with wrong type in function check_curve_planarity,,CR9
+4100,0109 Kinematic and geometric constraints for assembly models,Returning the first element of an empty aggregate,AP242,SMRLv5
+4095,0109 Kinematic and geometric constraints for assembly models,Missing return statements,,CR9
+4097,0109 Kinematic and geometric constraints for assembly models,"Invalid attribute role in USEDIN calls, assembly_feature_relationship_schema",AP242,CR9
+4593,0109 Kinematic and geometric constraints for assembly models,assembly_constraint_schema and assembly_feature_relationship_schema EXPRESS error,AP242,CR9
+3754,0111 Elements for the procedural modelling of solid shapes,Inheritance error in entity solid_with_variable_radius_edge_blend,"AP209, AP242",SMRLv5
+4802,0111 Elements for the procedural modelling of solid shapes,Additional change to bug 3754 for consistency for track_blended_solid,,SMRLv5
+4685,0112 procedural_sketch_schema,Missing procedural_sketch_schema in SMRL,,SMRLv5
+2342,0203 Configuration controlled 3D design of mechanical parts and,AP203e2 misses composite_shape_element,GD&T,CR7_242-1-CD
+4090,0209 Composite and metallic structural analysis and related desi,Scope too detailed,,CR9
+3897,0209 Composite and metallic structural analysis and related desi,produce SMRL v3,AP209,CR9
+4201,0209 Composite and metallic structural analysis and related desi,wrong type for CASE labels in function cell_counts,AP209,CR9
+3331,0239 Product life cycle support,Extended select types,,SMRLv5
+5146,0242 Managed Model Based 3D Engineering,final ISO edits for design APs,"AP209, AP210, AP242",SMRLv6
+5098,0242 Managed Model Based 3D Engineering,In 242 document 3001 is listed twice in the Clause 2 Normative references.,,SMRLv6
+3963,0242 Managed Model Based 3D Engineering,requirement_management module not included in AP 242,AP242,CR7_242-1-CD
+3732,0242 Managed Model Based 3D Engineering,GD&T / PMI Scope for First Pass Through AP 242,GD&T,CR7_242-1-CD
+4767,0242 Managed Model Based 3D Engineering,mapping errors from AP 242 DIS build,AP242,CR9
+3437,0242 Managed Model Based 3D Engineering,rule subtype_mandatory_founded_item,AP242,CR9
+5025,0409 Ap209_multidisciplinary_analysis_and_design,mesh_function.basis should be optional,,SMRLv6
+5012,0409 Ap209_multidisciplinary_analysis_and_design,Missing subtypes for CFD instantiations,,SMRLv6
+2634,0409 Ap209_multidisciplinary_analysis_and_design,manual editing of AP209 longform required,,CR9
+3750,0409 Ap209_multidisciplinary_analysis_and_design,ap 209 longform manual fix recommended,,CR9
+4091,0409 Ap209_multidisciplinary_analysis_and_design,ARM EXPRESS long form compilation select issues,AP209,CR9
+4092,0409 Ap209_multidisciplinary_analysis_and_design,MIM EXPRESS long form compilation errors,AP209,CR9
+4671,0409 Ap209_multidisciplinary_analysis_and_design,409 Collector bug for CR9,AP209,CR9
+4425,0409 Ap209_multidisciplinary_analysis_and_design,Undocumented AM409 changes,,CR9
+4623,0409 Ap209_multidisciplinary_analysis_and_design,Extend groupable_item in 409 mim,AP209,CR9
+4530,0409 Ap209_multidisciplinary_analysis_and_design,AM 409 based on AM 442 instead of AM 403,,CR9
+4601,0409 Ap209_multidisciplinary_analysis_and_design,409 addition,AP209,CR9
+3538,0410 Ap210_electronic_assembly_interconnect_and_packaging_design,inappropriate use of SELECT EXTENSION collector for AP 210,generic-entity-SELECT,CR7_242-1-CD
+4599,0410 Ap210_electronic_assembly_interconnect_and_packaging_design,review AP 210 AIM/ARM longform subtype constraints,AP210,CR9
+4669,0410 Ap210_electronic_assembly_interconnect_and_packaging_design,410 collector for CR9,AP210,CR9
+5051,0442 Ap242_managed_model_based_3d_engineering,"SMRLV6 Collector bug for patches to ARM, MIM Longforms",,SMRLv6
+4042,0442 Ap242_managed_model_based_3d_engineering,442 longform error reports,AP242,CR7 GD&T
+3947,0442 Ap242_managed_model_based_3d_engineering,module 442 alpha longform build for GD&T project,"AP242, GD&T",CR7_242-1-CD
+4064,0442 Ap242_managed_model_based_3d_engineering,Issues with AP242 first point release longform EXPRESS schema,AP242,CR7_242-1-CD
+3544,0442 Ap242_managed_model_based_3d_engineering,Add 2D csg representation to AP242,AP242,CR7_242-1-CD
+4650,0442 Ap242_managed_model_based_3d_engineering,APmapindex3 mapping table errors for AP242,AP242,CR9
+4561,0442 Ap242_managed_model_based_3d_engineering,AP242 MIM longform errors,"AP209, AP210, AP242",CR9
+3991,0442 Ap242_managed_model_based_3d_engineering,Misses global rule subtype_mandatory_shape_representation,AP242,CR9
+4020,0442 Ap242_managed_model_based_3d_engineering,Include AM Edge_shape_feature,AP242,CR9
+3931,0442 Ap242_managed_model_based_3d_engineering,AP214 global rules on dependent_instantiable,AP242,CR9
+4078,0442 Ap242_managed_model_based_3d_engineering,Return of product_category_relationship,AP242,CR9
+3193,0442 Ap242_managed_model_based_3d_engineering,Make Product abstract and its subtypes ONEOF,AP242,CR9
+4390,0442 Ap242_managed_model_based_3d_engineering,redundant entry in SELECT type,AP242,CR9
+4202,0442 Ap242_managed_model_based_3d_engineering,"Including AM 1819 ""Tesselated Geometry"" into AM442",AP242,CR9
+4489,0442 Ap242_managed_model_based_3d_engineering,disabled mapping table,AP242,CR9
+4475,0442 Ap242_managed_model_based_3d_engineering,Add subtype_mandatory_shape_representation for AP242,AP242,CR9
+4528,0442 Ap242_managed_model_based_3d_engineering,For AP242 Product_occurrence_definition_relationship must be specific,,CR9
+4592,0518 Mechanical design shaded representation,AIC EXPRESS use from error,AP242,SMRLv5
+4752,0518 Mechanical design shaded representation,add schema version to schema tag in resource.xml,,CR9
+4029,0519 Geometric tolerances,P519 Collector bug for CR8,GD&T,CR7 GD&T
+3937,0522 Machining features,ENTITIES not in given SCHEMA in arguments that call functions,AP242,CR7 GD&T
+3935,0522 Machining features,name clash--SHAPE_REPRESENTATION_WITH_PARAMETERS,,CR7 GD&T
+3543,0522 Machining features,Splitting of AIC522,GD&T,CR7 GD&T
+4753,0522 Machining features,add schema version to schema tag in resource.xml,,CR9
+3403,1000 Application modules,Set publication year and publication state for CR1 and CR2,,SMRLv5
+4190,1003 Curve_appearance,"AP214 ""Figure 54 Predefined point markers"" missing",,CR9
+2556,1004 Elemental_geometric_shape,Description of Detailed_geometric_model_element,AP243,SMRLv5
+4898,1004 Elemental_geometric_shape,Axis_placement inconsistent with axis2_placement_3d,,SMRLv5
+3307,1005 Elemental_topology,updates needed for ap 242,AP242,CR7_242-1-CD
+3304,1005 Elemental_topology,URGENT: Which entity is Topological_representation_item ?,,CR9
+4588,1008 Layer_assignment,MIM EXPRESS reference errors,AP242,CR9
+4849,1010 Date_time,restructure date_of_date_time_select to resolve mapping issues.,,SMRLv5
+3096,1010 Date_time,SEDS #1406 extend date_or_date_time_select for extended dates,AP242,CR9
+4631,1010 Date_time,USE FROM for local_time missing in MIM,,CR9
+4850,1014 Date_time_assignment,change interface structure to address mapping issue,,SMRLv5
+4430,1022 Part_and_version_identification,Remove Note 2 about Document from the Part definition,AP242,CR9
+3898,1025 Alias_identification,alias_identification harmonization with AP 214,AP242,CR7_242-1-CD
+4440,1025 Alias_identification,alias_identification MIM harmonization with AP 214,AP242,CR9
+4602,1026 Assembly_structure,add multi_level_reference_designator to module.,"AP209, AP210, AP242, EER",CR9
+5715,1026 Assembly_structure,Assembly_structure_arm references contextual_shape_type_enumeration but does not interface Product_view_definition_relationship_arm,"AP209, AP210, AP242, AP242E2",CR9
+4574,1026 Assembly_structure,Product_occurrence_definition_relationship update,"AP242, EER",CR9
+4543,1027 Contextual_shape_positioning,Contextual_shape_representation.context_representation issue,AP242,CR9
+3856,1032 Shape_property_assignment,New Associated_item_shape and Associated_shape_element,GD&T,CR7 GD&T
+3894,1032 Shape_property_assignment,Invalid references detected,,CR7 PDQ-S
+4116,1032 Shape_property_assignment,shape_definition_representation to shape_aspect/_relationship for the ARM,AP242,CR7_242-1-CD
+3438,1032 Shape_property_assignment,geometric_item_specific_usage for constructive_geometry_representatio,GD&T,CR7_242-1-CD
+4146,1032 Shape_property_assignment,Proposal to remove geometric_item_specific_usage.ur1,"AP242, GD&T",CR9
+4229,1032 Shape_property_assignment,"need descriptions for associated_shape_element,..",GD&T,CR9
+4150,1032 Shape_property_assignment,Shape_element_description_association mapping missing constraint,AP242,CR9
+4032,1032 Shape_property_assignment,Add USE for MIM,AP242,CR9
+4231,1032 Shape_property_assignment,Need descriptions for Associated_item_shape and Associated_shape_element,GD&T,CR9
+4113,1032 Shape_property_assignment,geometric_item_specific_usage unique constraint,GD&T,CR9
+4523,1032 Shape_property_assignment,Nominal_3d_integral_feature.associated_item issue,AP242,CR9
+4484,1032 Shape_property_assignment,make Shape_element.id unique,"AP242, EER, GD&T",CR9
+4157,1033 External_model,External_geometric_model.WR1,,CR9
+4576,1041 Product_view_definition_relationship,Extend View_definition_relationship,"AP242, EER",CR9
+4999,1050 Dimension_tolerance,Geometric_dimension.modifier->statistical_tolerance name truncated,"AP209, AP210, AP242",SMRLv6
+3717,1050 Dimension_tolerance,ISO GD&T cross-references,GD&T,CR7_242-1-CD
+2862,1050 Dimension_tolerance,ASME Y 14.41: Dimension size and location,GD&T,CR7_242-1-CD
+3592,1050 Dimension_tolerance,dimension_tolerance_document_element_select issue,generic-entity-SELECT,CR7_242-1-CD
+3693,1050 Dimension_tolerance,controlled radius discussion,GD&T,CR7_242-1-CD
+3555,1050 Dimension_tolerance,"Make ""Theoretically Exact Dimensions"" explicit",GD&T,CR7_242-1-CD
+3603,1050 Dimension_tolerance,"Term ""Feature of size""",GD&T,CR7_242-1-CD
+3703,1050 Dimension_tolerance,tolerance class symbol discussion,GD&T,CR7_242-1-CD
+3692,1050 Dimension_tolerance,continous feature discussion,GD&T,CR7_242-1-CD
+3854,1050 Dimension_tolerance,move Measurement_path from AM basic_curve to AM Dimension_tolerance,GD&T,CR7_242-1-CD
+3933,1050 Dimension_tolerance,Rename Size_dimension and Location_dimension and subtypes,GD&T,CR7_242-1-CD
+3951,1050 Dimension_tolerance,new ISO 14405 capabilities on Dimensional tolerancing,GD&T,CR7_242-1-CD
+3578,1050 Dimension_tolerance,Radial and diameter dimensions,GD&T,CR7_242-1-CD
+4551,1050 Dimension_tolerance,"Add decimal digits to Plus_minus_bounds, Tolerance_range","AP242, GD&T",CR9
+4387,1050 Dimension_tolerance,"Support ISO 13715 ""Edges of undefined shape""",GD&T,CR9
+3178,1050 Dimension_tolerance,Envelope Requirement (E) for general tolerances,GD&T,CR9
+4227,1050 Dimension_tolerance,mapping of Geometric_dimension AO modifiers,"AP242, GD&T",CR9
+4166,1050 Dimension_tolerance,Radius and diameter dimension for toroidal surfaces (torus),"AP242, GD&T",CR9
+4491,1050 Dimension_tolerance,linear distance between cylinders,GD&T,CR9
+4235,1050 Dimension_tolerance,"ISO 14405-1:2010 modifier SCS ""specific fixed cross section""",GD&T,CR9
+3730,1051 Geometric_tolerance,contacting feature,GD&T,SMRLv6
+5016,1051 Geometric_tolerance,"Between_shape_element.start_feature, end_feature mapping backward",,SMRLv6
+4050,1051 Geometric_tolerance,Geoemtric_tolerance needs USE FROM .. common_datum_list,"AP242, GD&T",CR7_242-1-CD
+3716,1051 Geometric_tolerance,datum reference modified by translation in the context of feature control frame discussion,GD&T,CR7_242-1-CD
+3722,1051 Geometric_tolerance,unit basis discussion,GD&T,CR7_242-1-CD
+3180,1051 Geometric_tolerance,Straightness tolerance for cylinders and planes,GD&T,CR7_242-1-CD
+3791,1051 Geometric_tolerance,Update for recent p47 changes/extensions,GD&T,CR7_242-1-CD
+3550,1051 Geometric_tolerance,Non-uniform profile tolerance zones,GD&T,CR7_242-1-CD
+3632,1051 Geometric_tolerance,"Geometry for Datum_feature, Datum and Geometric_tolerance",GD&T,CR7_242-1-CD
+3764,1051 Geometric_tolerance,Add constraints on tolerance_zone_form.name,GD&T,CR7_242-1-CD
+3545,1051 Geometric_tolerance,Composite geometrical tolerances,GD&T,CR7_242-1-CD
+3552,1051 Geometric_tolerance,Feature based placement of Datum Targets,GD&T,CR7_242-1-CD
+3711,1051 Geometric_tolerance,projected tolerance zone dimension discussion,GD&T,CR7_242-1-CD
+3718,1051 Geometric_tolerance,update ISO cross-references,"AP242, GD&T",CR7_242-1-CD
+3743,1051 Geometric_tolerance,datum reference system discussion,GD&T,CR7_242-1-CD
+3553,1051 Geometric_tolerance,Moveable Datum Target,GD&T,CR7_242-1-CD
+4010,1051 Geometric_tolerance,Valid geometrical elements for geometrical tolerances,GD&T,CR7_242-1-CD
+4552,1051 Geometric_tolerance,Add decimal_digits to Geometric_tolerance AO,"AP242, GD&T",CR9
+3049,1051 Geometric_tolerance,ISO 17450 Invariant classes of situation / ideal features,GD&T,CR9
+4109,1051 Geometric_tolerance,relation of datum_target to a feature,GD&T,CR9
+3852,1051 Geometric_tolerance,Additional Geometric Tolerance Modifiers (1051),GD&T,CR9
+3546,1051 Geometric_tolerance,"AO attribute ""affected_plane"" conflicts with Tolerance_zone",GD&T,CR9
+4024,1051 Geometric_tolerance,Part 1051 Collector bug for AP242 1 DIS release,AP242,CR9
+3548,1051 Geometric_tolerance,Which feature (shape_aspect) a datum_target belongs to?,GD&T,CR9
+3911,1051 Geometric_tolerance,unique identification for elements related to GD&T,"AP242, EER, GD&T",CR9
+4225,1051 Geometric_tolerance,Issues on AO Datum_feature_of_size,"AP242, GD&T",CR9
+4206,1051 Geometric_tolerance,RULE unique_shape_aspect_constraint too constricting,"AP242, EER, GD&T",CR9
+4476,1051 Geometric_tolerance,Extend AO Between_shape_element for the specific labels to use,GD&T,CR9
+4496,1051 Geometric_tolerance,ISO 1101:2012 Intersection and Orientation Plane ARM,GD&T,CR9
+4451,1051 Geometric_tolerance,"""Collection plane"" from ISO 1101:2012",GD&T,CR9
+3534,1052 Default_tolerance,General_tolerances defined by a document,GD&T,CR7_242-1-CD
+3565,1052 Default_tolerance,Splitting Default_setting_association out into it's own module,GD&T,CR7_242-1-CD
+3539,1052 Default_tolerance,Wrong mapping of Default_setting_association.default_value,"AP242, GD&T",CR7_242-1-CD
+4499,1052 Default_tolerance,"How to ""deal with"" ASME Y14.41 default tolerances","AP242, GD&T",CR9
+3540,1052 Default_tolerance,Mapping of Upper_lower_limit and _toleranced_datum,"AP242, GD&T",CR9
+4584,1052 Default_tolerance,General_tolerances inconsistencies,AP242,CR9
+4494,1052 Default_tolerance,Number_of_decimal_places for Default_tolerance.limit,"AP242, GD&T",CR9
+3720,1054 Value_with_unit,Adding subtypes of Unit in AM1054 for PDQ-S,AP242,CR7 PDQ-S
+3819,1054 Value_with_unit,Definition of conversion based units,AP242,CR7_242-1-CD
+2860,1059 Effectivity_application,"Effectivity implies ""inclusion"". There is no mechanism for ""exclusion""",AP242,CR7_242-1-CD
+4485,1059 Effectivity_application,effectivity_item not GENERIC_ENTITY select,"AP209, AP210, AP233, AP239, AP242",CR9
+4594,1063 Product_occurrence,product_occurrence changes are incomplete arm vs mim,AP242,CR9
+4462,1068 Constructive_solid_geometry_3d,"Align AP242 ARM ""activity_method_item"" select type with AP239",,CR9
+4242,1102 Assembly_feature_definition,Remove AM Assembly_feature_definition and Product_property_feature_definition from SMRL,AP242,CR9
+3364,1103 product_class,product_concept_feature_category.wr1 qualification updates needed,,CR9
+3597,1103 product_class,id_for_class issue,generic-entity-SELECT,CR9
+3626,1103 product_class,product_concept_feature_category.wr1 problem,AP242,CR9
+4724,1104 Specified_product,Version wrong and Change log missing,,CR9
+4504,1108 Specification_based_configuration,RULE schema ref errors,AP242,CR9
+3621,1108 Specification_based_configuration,RULE restrict_to_dated_effectivity needs review,AP242,CR9
+4585,1109 Alternative_solution,MIM schema STRING errors,AP242,CR9
+4829,1110 Surface_conditions,Surface_texture_parameters mapping wrong,"AP209, AP210, AP242",SMRLv5
+3363,1110 Surface_conditions,contact_ratio_representation.wr2 qualification problem,AP242,CR7_242-1-CD
+4497,1110 Surface_conditions,invalid schema references in rules,AP242,CR9
+3541,1110 Surface_conditions,Extended_visual_appearance.orientation,AP242,CR9
+3594,1111 Classification_with_attributes,classification_identification_item issue,AP242,CR7_242-1-CD
+2628,1112 Specification_control,SEDS #1314: Miss configuration solutions,AP242,CR9
+4591,1112 Specification_control,MIM EXPRESS reference errors,AP242,CR9
+4589,1115 Part_collection,MIM EXPRESS reference errors,AP242,CR9
+3802,1121 Document_and_version_identification,SEDS #1410 mapping error,AP242,CR9
+2793,1122 Document_assignment,SEDS #897 make document assignment an aggregate,,CR9
+4250,1122 Document_assignment,AM Document_assignment update incomplete,,CR9
+4608,1122 Document_assignment,"Missing IR entities role_association, object_role",,CR9
+4492,1122 Document_assignment,Enforce usage of subtype document_product_equivalence,,CR9
+3970,1127 File_identification,Deprecate Hardcopy,AP242,CR9
+3756,1129 External_properties,miss REFERENCE FROM identification_role,AP242,CR7_242-1-CD
+3625,1129 External_properties,external_version_assignment_is_valid incorrect reference,AP242,CR9
+3535,1130 Derived_shape_element,Merge Derived_geometry into Derived_shape_element,GD&T,CR7 GD&T
+3549,1130 Derived_shape_element,Different straightness tolerances for a cylinder and its centre axis,GD&T,CR7_242-1-CD
+2550,1130 Derived_shape_element,"Derived_geometry duplicates Derived_shape_element, odd Datum_defined_by_derived_shape",GD&T,CR9
+3245,1130 Derived_shape_element,Complete the ARM of Derived_shape_element,GD&T,CR9
+4230,1130 Derived_shape_element,add 2 subtypes to centre_of_symmetry.,"AP242, GD&T",CR9
+4763,1131 Construction_geometry,Do we need to swap rep_1/_2 of constructive_geometry_representation_relationship?,,SMRLv5
+3172,1131 Construction_geometry,"Use of the term ""supplemental geometry"" instead of constructive_geometry","AP242, GD&T",CR9
+4108,1164 Product_as_individual,New AM product_as_individual_assembly_and_test,AP242,CR9
+4122,1206 Draughting_annotation,AO Draughting_annotation_occurrence is not a representation,AP242,CR9
+4252,1206 Draughting_annotation,global rule on draughting_model,,CR9
+4563,1210 Set_theory,Rename SubSet to SubSetMember,,CR9
+3251,1228 Representation_with_uncertainty,uncertainty_assigned_representation,AP242,CR9
+4639,1232 Design_material_aspects,AM Design_material_aspects didn't get published,,CR9
+4649,1241 Information_rights,Applied_information_usage_right not mapped,AP242,CR9
+4411,1248 product_breakdown,Breakdown_of.of_view needs to be a select,"AP239, AP242",CR9
+4673,1310 Draughting_element,AM 1310 modified after CR8 ballot submittal,AP242,SMRLv5
+2607,1310 Draughting_element,Missed AO Annotation_plane.elements,,CR8
+2608,1310 Draughting_element,Details on Draughting_callout,,CR8
+2351,1310 Draughting_element,Annotation_plane missing in the ARM,,CR8
+2606,1310 Draughting_element,Remove Leader.curve,,CR8
+2629,1310 Draughting_element,Move Text_style to AM Associative_text,,CR8
+3358,1310 Draughting_element,type dimension_callout_select,,CR9
+4840,1311 Associative_draughting_elements,Draughting_model_item_association redeclared attributes are not accounted for in mapping,"AP209, AP210, AP242",SMRLv5
+2379,1311 Associative_draughting_elements,WR4-WR7 wrongly coded for draughting_model_item_association,,SMRLv5
+4117,1311 Associative_draughting_elements,Extend Draughting_model_item_association for all related product data,AP242,CR9
+4052,1311 Associative_draughting_elements,Extend Draughting_model_item_association.definition for dimensional_size and _location,GD&T,CR9
+4177,1312 Draughting_element_specialisations,des_draughting_callout_subtypes,"AP242, GD&T",CR9
+2618,1312 Draughting_element_specialisations,Clean out AM draughting_element_specializations,,CR9
+3359,1312 Draughting_element_specialisations,type dimension_callout_select,,CR9
+4486,1316 Camera_view_3d,USE FROM for view_volume missing,AP242,CR9
+3962,1317 Procedural_shape_model,missing type interfaces into 442 shortform schema,AP242,CR9
+3749,1319 Solid_with_local_modification,ARM E-G errors,,CR9
+3915,1342 Expression,Splitting and re-arrangement of expression modules,AP242,CR9
+4025,1344 Numerical_interface,Add AM Numerical_interface to AP242,"AP242, GD&T",CR9
+4393,1345 Item_definition_structure,incorrect schema reference in RULE definition_replacement_requires_effectivity_assignment,"AP210, AP242",CR9
+4587,1345 Item_definition_structure,MIM EXPRESS STRING ERRORS,AP242,CR9
+3595,1362 Dimension_and_tolerance_callouts,dimensioning_standard_document_reference_item issue,"GD&T, generic-entity-SELECT",CR7_242-1-CD
+4616,1372 Analysis,Incorrect temporal_parts attribute SET should be LIST,,CR9
+4625,1373 Analysis_product_relationships,Inorrect Mapping of Analysis_view_relationship attributes,AP209,SMRLv5
+3741,1375 Cfd_conditions,Extending mbna_bc_type_compound in the same module,,CR9
+4628,1377 Cfd_model,Incorrect mapping?,AP209,CR9
+3738,1379  Cfd_specified_general_property,property_distribution_select and extensions,,CR9
+3292,1380 Fea_definition_relationships,Multiple errors in ARM to MIM mapping,,CR9
+4605,1381  Finite_element_analysis,Build errors,,CR8
+4606,1381  Finite_element_analysis,Mapping errors,,CR8
+4627,1381  Finite_element_analysis,Incomplete mapping for Graphical_representation and Tabular_representation,AP209,CR9
+4428,1381  Finite_element_analysis,"Undocumented changes on ENTITY Tabular_representation, Graphical_representation",AP209,CR9
+4756,1386 Mesh_topology,function cell_counts enumeration issue,AP209,CR9
+4629,1386 Mesh_topology,Missing mapping to vertex and double mapping entires,AP209,CR9
+3503,1448 System_behaviour,Remove AP233 specific detail from usage guide,,SMRLv5
+4921,1453 Function_based_behaviour,corrected reference to iso13584 in mim_descriptions.xml,,SMRLv5
+4917,1470 Parameter_value_specification,ISO 13584 capitalization,,SMRLv5
+4920,1491 expression_assignment,corrected reference to iso13584 in mim_descriptions.xml,,SMRLv5
+4996,1512 Faceted_boundary_representation,Faceted_brep_shape_representation description text typo,,SMRLv5
+4043,1520 Product_data_quality_definition,Capitalization error: Data_quality_definition,AP242,CR7 PDQ-S
+4581,1523 Shape_data_quality_criteria,Function value_limit_type error,,CR9
+4535,1524 Shape_data_quality_inspection_result,capitalization errors in AO references,AP242,CR9
+4080,1524 Shape_data_quality_inspection_result,Shape_data_quality_criteria_arm EXPRESS and Description error,AP242,CR9
+3362,1525 Composite_surface,Missing fundamental entities for PDQ-S,AP242,CR7 PDQ-S
+4539,1526 Numeric_expression,Abstract supertypes in AM Numeric_expression,,CR9
+4437,1603 Analytical_model,enumeration type qualification issue,AP210,CR9
+4188,1603 Analytical_model,Analytical_model_application issue,AP210,CR9
+4488,1603 Analytical_model,parameter_assignment needs to relate to a part version,AP210,CR9
+4398,1613 Physical_unit_non_planar_design_view,incorrect schema reference in Assembly_component_non_planar_shape_model.equivalent...,AP210,CR9
+4819,1628 Design_product_data_management,XML not current,AP242,SMRLv5
+4818,1628 Design_product_data_management,spelling error in MIM,AP242,SMRLv5
+4816,1628 Design_product_data_management,Missing EXPRESS in Clause 5.2,,SMRLv5
+3623,1628 Design_product_data_management,design_pdm_classified_attribute_select redundant entries,"AP210, AP242",CR7_242-1-CD
+3194,1628 Design_product_data_management,Specific categories for Parts,AP242,CR7_242-1-CD
+2625,1628 Design_product_data_management,AM Design_material_aspects not used,,CR9
+4081,1628 Design_product_data_management,AP214 Specific_document_classification,AP242,CR9
+4559,1628 Design_product_data_management,Identification_assignment and Name_assignment should be a groupable_item,,CR9
+4402,1628 Design_product_data_management,incorrect schema reference in unique_product_version_id RULE,"AP209, AP210, AP242",CR9
+4586,1628 Design_product_data_management,MIM schema reference errors,AP242,CR9
+3590,1634 Assembly_component_placement_requirements,acpr_requirement_assignment_item issue,generic-entity-SELECT,CR7_242-1-CD
+3589,1634 Assembly_component_placement_requirements,restriction_basis_item issue,generic-entity-SELECT,CR7_242-1-CD
+3601,1634 Assembly_component_placement_requirements,Placement_group_requirement_definition issue,AP210,CR9
+4400,1634 Assembly_component_placement_requirements,incorrect schema reference in Placement_group_requirement_definition.requirement_relationship,AP210,CR9
+4422,1636 Assembly_module_design,Assembly_module_design_view declaration errors,AP210,CR9
+4582,1637 Assembly module macro definition,ARM EXPRESS error,,CR9
+3053,1641 Assembly_module_with_subassembly,410 module business rule inconsistent with module 1641 needs,AP210,CR9
+4919,1643 Assembly_module_with_interconnect_component,missing attribute in AO Design_view_terminal_component_shape_relationship,AP210,SMRLv5
+4433,1643 Assembly_module_with_interconnect_component,Supertype is both a direct supertype and an indirect supertype,AP210,CR9
+4392,1646 Footprint_definition,incorrect schema ref in fd_get_transforms function,AP210,CR9
+3599,1648 Assembly_physical_requirement_allocation,apra_requirement_assignment_item issue,generic-entity-SELECT,CR7_242-1-CD
+4635,1649 Assembly_technology,Type and mapping of Assembly_bond_definition.associated_definition,,CR9
+2548,1652 Basic_geometry,move constructive_element_select,,CR9
+3591,1654 Characteristic,c_documented_element_select issue,generic-entity-SELECT,CR7_242-1-CD
+4074,1654 Characteristic,Characteristic_data_table missing explicit link to table header,AP242,CR9
+4076,1654 Characteristic,Request two additional ARM subtypes of Tolerance_characteristic,AP210,CR9
+4408,1654 Characteristic,syntax error in Qualified_tolerance_characteristic.WR2,"AP209, AP210, AP242",CR9
+4438,1654 Characteristic,Qualified_characteristic issues,"AP210, AP242",CR9
+4141,1654 Characteristic,A single value cell in data table with global unit forces use of compound_representation_item,AP242,CR9
+2636,1657 Component_feature,AP242 needs Physical_component_feature for PMI with assembly,GD&T,CR7_242-1-CD
+4419,1657 Component_feature,Component_feature_joint subtype declaration error,"AP209, AP242",CR9
+4420,1657 Component_feature,Component_feature_joint.wr3 error,"AP210, AP242",CR9
+4418,1657 Component_feature,Component_feature subtype error,"AP210, AP242",CR9
+1382,1661 change_management,Detailed recording of design changes,AP242,CR7_242-1-CD
+3707,1662 Design_specific_assignment_to_assembly_usage_view,packaged_part_terminal mapping too restrictive,AP210,CR9
+4764,1666 Extended_geometric_tolerance,Incorrect RULE generates errors in AP242 build,,SMRLv5
+4016,1666 Extended_geometric_tolerance,Make Edge_segment_vertex a Shape_element instead of a Datum,GD&T,CR7_242-1-CD
+4017,1666 Extended_geometric_tolerance,Datum_difference to refer Shape_element instead of Datum,"AP210, GD&T",CR9
+3192,1666 Extended_geometric_tolerance,"Situation feature: point, plane and/or axis",GD&T,CR9
+3247,1666 Extended_geometric_tolerance,Clean up Extended_geometric_tolerance,GD&T,CR9
+4541,1666 Extended_geometric_tolerance,Remove AM 1666 Extended_geometric_tolerance,,CR9
+4640,1668 Fabrication_joint,Error in description of Fabrication_joint.wr1,,CR9
+4772,1670 Fabrication_technology,Add New Item to Enumerated List for Predefined_documentation_layer_purpose Type,AP210,SMRLv5
+3604,1670 Fabrication_technology,ft_documented_element_select issue,generic-entity-SELECT,CR7_242-1-CD
+4532,1670 Fabrication_technology,Add New Item to Enumerated List for Predefined_documentation_layer_purpose Type,,CR9
+3605,1671 Feature_and_connection_zone,Connection_zone.surface_conditions,AP210,CR7 GD&T
+4000,1671 Feature_and_connection_zone,Remove Location_shape_model,,CR7_242-1-CD
+4002,1671 Feature_and_connection_zone,New Non_ and Definitional_shape_aspect,GD&T,CR7_242-1-CD
+3999,1671 Feature_and_connection_zone,New AO Connection_feature,AP242,CR9
+4432,1671 Feature_and_connection_zone,Feature_definition_with_connection_area.connection_area must be optional,"AP210, AP242",CR9
+4498,1681 Generic_material_aspects,invalid schema reference in general_material_property.wr1,AP242,CR9
+3586,1685 Interconnect_module_to_assembly_module_relationship,component_or_component_feature is not EXTENSIBLE_GENERIC,generic-entity-SELECT,CR7_242-1-CD
+4401,1689 Interconnect_physical_requirement_allocation,incorrect schema reference in get_specific_requirement_type_for_primary_rvd_relationship,AP210,CR9
+4798,1690 Interconnect_placement_requirements,constraints prohibit valid data population,AP210,SMRLv5
+4598,1692 Land,stratum_feature_template_component subtype_constraint issue,AP210,CR9
+4524,1693 Layered_2d_shape,part_template_or_physical_unit_2d_shape_select issue in AP 242,AP242,CR9
+3587,1698 Layered_interconnect_module_design,limd_restriction_basis_item not GENERIC_ENTITY,generic-entity-SELECT,CR7_242-1-CD
+3612,1698 Layered_interconnect_module_design,Laminate_group_component_make_from_relationship subtype graph issues,AP210,CR7_242-1-CD
+3997,1698 Layered_interconnect_module_design,"Merge ""REFERENCE FROM Physical_unit_2d_design_view_arm""",,CR7_242-1-CD
+2166,1698 Layered_interconnect_module_design,clarification on Layer_connection_point and Fabrication_joint and friends,AP210,CR9
+4265,1698 Layered_interconnect_module_design,limd_restriction_basis_item change not included in Change annex,generic-entity-SELECT,CR9
+4154,1698 Layered_interconnect_module_design,Layer_connection_point.reference_network,AP210,CR9
+4431,1698 Layered_interconnect_module_design,Stratum_feature_conductive_join.technology_requirement error,AP210,CR9
+4434,1698 Layered_interconnect_module_design,few problems with layered_interconnect_design_view arm,AP210,CR9
+4403,1698 Layered_interconnect_module_design,limd_requirement_assignment_item does not include Stratum_feature_conductive_join,AP210,CR9
+4423,1698 Layered_interconnect_module_design,Interconnect_module_design_view declaration errors,AP210,CR9
+4391,1698 Layered_interconnect_module_design,redundant entry in SELECT type lists,AP210,CR9
+4522,1702 Manifold_subsurface,Manifold_subsurface_model.items issue,AP242,CR8
+4075,1703 Model_parameter,Issue with parameter_assignment mapping,AP210,CR9
+4183,1703 Model_parameter,parameter_assignment needs to relate to a part version,AP210,CR9
+4189,1704 Network_functional_design_view,Functional_unit.functional_property extension needed,AP210,CR9
+4536,1704 Network_functional_design_view,bus element position identifier not exchanged,AP210,CR9
+4527,1704 Network_functional_design_view,Functional_unit.composed_network : Functional_unit_network_definition := ???,,CR9
+3645,1705 Functional_usage_view,functional_unit_definition may not be for a part,AP210,CR9
+3368,1705 Functional_usage_view,scalar_terminal_definition_link.ur1 attribute qualification,AP210,CR9
+3700,1705 Functional_usage_view,Add classification to functional_unit_usage_view_terminal_definition,"AP210, schematic",CR9
+3614,1706 Non_feature_shape_element,Design_view_level_non_feature_shape_model.wr4 issue,AP210,CR9
+4394,1706 Non_feature_shape_element,incorrect schema reference in Design_view_level_non_feature_shape_model.wr2,AP210,CR9
+4421,1706 Non_feature_shape_element,Non_feature_shape_element.scope,AP210,CR9
+4542,1706 Non_feature_shape_element,Is optional attribute on Edge_segment_vertex needed.,"AP210, AP242",CR9
+3370,1711 Part_external_reference,part_terminal_external_reference.ur1 attribute qualification,AP210,CR9
+3615,1714 Part_feature_location,Usage_concept_usage_relationship.wr3 issue,AP210,CR9
+4590,1715 Part_occurrence,MIM EXPRESS reference errors,AP242,CR9
+3609,1716 Layered_interconnect_complex_template,Part_template_planar_keepout_shape_model.application_technology_constraint,AP210,CR9
+3607,1716 Layered_interconnect_complex_template,lict_requirement_assignment_item incomplete,AP210,CR9
+4156,1716 Layered_interconnect_complex_template,Dependent_template_location_in_padstack_definition.WR4,AP210,CR9
+4580,1716 Layered_interconnect_complex_template,acyclic bug,AP210,CR9
+3616,1717 Part_template_3d_shape,pt3ds_requirement_assignment_item missing from schema,AP210,CR9
+4155,1718  Layered_interconnect_simple_template,FUNCTION get_electrical_conductivity,,CR7 GD&T
+3613,1718  Layered_interconnect_simple_template,list_requirement_assignment_item missing in schema,AP210,CR9
+4600,1718  Layered_interconnect_simple_template,ARM EXPRESS error,AP210,CR9
+4464,1718  Layered_interconnect_simple_template,FUNCTION get_electrical_conductivity,,CR9
+4395,1720 Part_template_shape_with_parameters,incorrect schema reference in Part_template_keepout_shape_model & Part_template_shape_model.principal_part_shape,AP210,CR9
+4518,1721 Physical_component_feature,move Minimally_defined_component_terminal to Physical_component_feature module,AP242,CR9
+4429,1722 Part_template,Make Part_template a subtype of Part,"AP210, AP242",CR9
+3617,1723 Physical_node_requirement_to_implementing_component_allocat,FUNCTION get_pctd and get_pctr have errors,AP210,CR9
+4396,1724 Physical_unit_2d_design_view,incorrect schema reference in Assembly_component_2d_shape_model.equivalent_reference_shape_model,AP210,CR9
+4397,1725 Physical_unit_3d_design_view,incorrect schema reference in Assembly_component_3d_shape_model.equivalent_reference_shape_model,AP210,CR9
+3618,1726 Physical_unit_2d_shape,pu2ds_requirement_assignment_item missing from schema,AP210,CR9
+4743,1726 Physical_unit_2d_shape,arm select issue pu2ds_part_template_or_physical_unit_2d_shape_select,AP210,CR9
+3619,1727 Physical_unit_3d_shape,pu3ds_requirement_assignment_item missing from schema,AP210,CR9
+4424,1728 Physical_unit_design_view,Part_design_view.described_element,AP210,CR9
+4399,1730 Physical_unit_shape_with_parameters,incorrect schema reference in Physical_unit_keepout_shape_model & Physical_unit_shape_model,AP210,CR9
+4439,1731 Constructive_solid_geometry_2d,complex instances of area_with_outer_boundary and primitive_2d_with_inner_boundary,AP210,CR8
+4019,1731 Constructive_solid_geometry_2d,Make Csg_2d_model a subtype of Planar_shape_model,AP242,CR9
+4443,1731 Constructive_solid_geometry_2d,SUBTYPE_CONSTRAINT primitive_2d_subtypes,"AP210, AP242",CR9
+4175,1731 Constructive_solid_geometry_2d,long form ELLIPTIC_AREA duplicate in entity PRIMITIVE_2D,AP242,CR9
+3620,1732 Physical_unit_usage_view,Part_feature_template_definition.surface_conditions issue,AP210,CR9
+4416,1732 Physical_unit_usage_view,Part_usage_view.described_element redeclaration error,AP210,CR9
+4409,1732 Physical_unit_usage_view,Part_usage_view.described_element references wrong declaration,AP210,CR9
+4205,1733 Planned_characteristic,Relationship between Evaluated_characteristic and Physical_instance_test_result,AP242,CR9
+3372,1737 Printed_physical_layout_template,Template_material_cross_section_boundary.ur1 attribute requalification,AP210,CR9
+3588,1741 Sequential_laminate_assembly_design,Sequential_laminate_assembly_relationship.wr1 problem,AP210,CR9
+3666,1742 Shape_composition,AM Shape_composition for AP203/242,GD&T,CR7 GD&T
+4233,1742 Shape_composition,rules for composite_shape_aspect,"AP242, GD&T",CR9
+4088,1748 Stratum_non_planar_shape,Mapping Table Inconsistancies,AP210,CR9
+4153,1751 Test_requirement_allocation,Test_requirement_allocation.wr2,,CR9
+4745,1753 Value_with_unit_extension,scattering_parameter issue,AP210,CR9
+4638,1753 Value_with_unit_extension,"Follow up issue ""capital/lower case issue with iso13584 schemas""",,CR9
+4435,1755 Physical_connectivity_definition,physical_connectivity_definition.name error,AP210,CR9
+3564,1760 Pre_defined_product_data_management_specializations,organization_or_person_in_organization_item does not specify GENERIC_ENTITY,"AP242, generic-entity-SELECT",CR9
+4037,1764 Shape_feature,Shape_feature_definition vs 214 Feature_definition,GD&T,CR7_242-1-CD
+3998,1764 Shape_feature,Removal of Shape_feature_occurrence,GD&T,CR7_242-1-CD
+4571,1767 Composite_constituent_shape,add Tessellated_shape_rep to ply_laminate_shape,"AP209, AP242",CR9
+3751,1767 Composite_constituent_shape,missing mappings in module composite_constituent_shape,AP242,CR9
+4626,1769 Fea_material_aspects,Incorrect Mapping of Fea_material_property,AP209,CR9
+3747,1770 Part_and_zone_laminate_tables,Short names defined that are not used,,CR9
+3542,1770 Part_and_zone_laminate_tables,Conflicting ply_laminate_table and ply_laminate_definition,,CR9
+4263,1770 Part_and_zone_laminate_tables,Add capability for any Part to be added to a Composite Assembly,,CR9
+4427,1770 Part_and_zone_laminate_tables,Undocumented change on TYPE component_class_for_assembly,"AP209, AP242",CR9
+4426,1771 Stock_material,Undocumented changes on TYPE ply_stock_material,"AP209, AP242",CR9
+4908,1772 Ply_orientation_specification,references to Axis_placement.origin out of date,,SMRLv5
+4456,1772 Ply_orientation_specification,Improve definition of Direction_of_fiber_orientation_within_a_ply,AP242,CR9
+4458,1772 Ply_orientation_specification,Bad reference to point_select,,CR9
+4851,1776 Extended_date,add date_or_date_time_select to Extended_date,,SMRLv5
+4466,1779 External_representation_item,New externally_defined_representation,EER,CR9
+4186,1782 Qualified_measure,add format_qualifier to value_qualifier in AM Qualified_measure,"AP242, GD&T",CR9
+4596,1782 Qualified_measure,MIM EXPRESS schema reference error,AP242,CR9
+4578,1782 Qualified_measure,new format specification required for variable length integer and frational part,,CR9
+4521,1797 Kinematic_structure,Kinematic_link_representation type issue,AP242,CR8
+4537,1797 Kinematic_structure,Tool_attachment_point_frame and Tool_centre_point_frame,,CR9
+4417,1802 Assembly_component,Assembly_component subtype declaration error,"AP210, AP242",CR9
+3924,1803 Process_plan,New AM Process_plan,AP242,CR7_242-1-CD
+4207,1803 Process_plan,Mapping of AO Process_operation_resource_assignment.placement,AP242,CR9
+4644,1804 Product_as_individual_assembly_and_test,missing mapping and MIM structure,AP242,SMRLv5
+2269,1804 Product_as_individual_assembly_and_test,Physical_instance_test_result,AP242,CR9
+4555,1804 Product_as_individual_assembly_and_test,Relationship between Evaluated_characteristic and Physical_instance_test_result,AP242,CR9
+4121,1806 Form_feature_in_panel,New AM Form_feature_in_panel,AP242,CR7_242-1-CD
+4253,1807 Part_shape,Missing (empty) mapping in new AP242 modules,AP242,CR9
+4212,1807 Part_shape,clause 5.1 is incomplete,AP242,CR9
+4529,1807 Part_shape,Rename AM General_part_feature to Part_shape,GD&T,CR9
+4575,1808 Assembly_shape,New: ARM component_path_shape_aspect,EER,CR9
+4254,1808 Assembly_shape,Missing (empty) mapping in new AP242 modules,AP242,CR9
+4603,1808 Assembly_shape,remove multi_level_reference_designator from arm,"AP209, AP210, AP242",CR9
+3943,1810 Product_and_manufacturing_information_view_context,GD&T document context strings,GD&T,CR9
+3851,1810 Product_and_manufacturing_information_view_context,complete the rules on new pmi view contexts,"AP242, GD&T",CR9
+4255,1810 Product_and_manufacturing_information_view_context,Missing (empty) mapping in new AP242 modules,AP242,CR9
+4243,1810 Product_and_manufacturing_information_view_context,Add new contexts for kinematics,AP242,CR9
+4460,1810 Product_and_manufacturing_information_view_context,Complete assignment of GD&T documents to specific product_definition_contexts,"AP242, GD&T",CR9
+4562,1811 product_and_manufacturing_information_with_nominal_3d...,Mapping specification of Nominal_3d_model_shape is too broad,"AP209, AP210, AP242",CR9
+4256,1811 product_and_manufacturing_information_with_nominal_3d...,Missing (empty) mapping in new AP242 modules,AP242,CR9
+4257,1812 Product_and_manufacturing_annotation_presentation,Missing (empty) mapping in new AP242 modules,AP242,CR9
+3792,1814 Machining_features,New AM Machining_features,AP242,CR9
+4160,1814 Machining_features,Cardinality of Compound_feature.element,AP242,CR9
+4410,1814 Machining_features,Diverse mapping errors,AP242,CR9
+4259,1814 Machining_features,spelling error Defined_thread.minor_diamter,,CR9
+4161,1814 Machining_features,Need also AP224 Implicit_base_shape_representation and subtypes,AP242,CR9
+4021,1815 Mating_structure,Harmonize AP214 Mated_item_relationship.mated_shape with AP210 concepts,AP242,CR9
+3925,1815 Mating_structure,New AM Mating_structure,AP242,CR9
+3179,1816 model_based_3d_geometrical_dimensioning_and_tolerancing_rep,Dimensions on ABREPs,GD&T,CR7_242-1-CD
+3182,1816 model_based_3d_geometrical_dimensioning_and_tolerancing_rep,Valid geometrical elements for geometrical dimensions and tolerances,GD&T,CR9
+3949,1816 model_based_3d_geometrical_dimensioning_and_tolerancing_rep,Scope/content of new AM on 3D GD&T,GD&T,CR9
+4258,1816 model_based_3d_geometrical_dimensioning_and_tolerancing_rep,Missing (empty) mapping in new AP242 modules,AP242,CR9
+4436,1816 model_based_3d_geometrical_dimensioning_and_tolerancing_rep,EXPRESS layout errors,"AP210, AP242",CR9
+4455,1819 Tessellated_geometry,Add tessellated_annotation_occurrence to the ARM,,CR8
+4158,1819 Tessellated_geometry,New module for Tessellated_geometry,,CR8
+4132,1820 Point_direction_model,AP214 Point_direction_model,AP242,CR9
+4595,1821 externally_conditioned_data_quality_criteria,MIM EXPRESS spelling error,AP242,CR9
+4548,1823 Product_view_definition_reference,ARM integration of product_definition_reference,EER,CR9
+5040,1824 Change_management,Missing entity definition,AP242,SMRLv5
+4790,3001 AP242 managed_model_based_3d_engineering_bom,part 3001 content differs between CR9 and 242 DIS,AP242,SMRLv5
+5042,3001 AP242 managed_model_based_3d_engineering_bom,The Icons linking to the mapping table for ENTITYs in Clause 4 have now disappeared.,,SMRLv6
+5043,3001 AP242 managed_model_based_3d_engineering_bom,Mapping Table does not differentiate between mapping of Attributes and Assertions,,SMRLv6
+4964,3001 AP242 managed_model_based_3d_engineering_bom,Remove attribute configuredElement and resolvedConfiguration from BO ConditionalConfiguration,,SMRLv6
+5001,3001 AP242 managed_model_based_3d_engineering_bom,Modify ComposedGeometricModel and ExternalGeometricModel to support issue #5000,,SMRLv6
+4957,3001 AP242 managed_model_based_3d_engineering_bom,AlternativeSolution is missing in EffectivityAssignmentSelect,,SMRLv6
+5003,3001 AP242 managed_model_based_3d_engineering_bom,p28_config.xml missing in HTML build,,SMRLv6
+4959,3001 AP242 managed_model_based_3d_engineering_bom,KinematicLinkToOccurrenceAssociation.associatedTo should reference Occurrence and not AssemblyOccurrenceRelationship,,SMRLv6
+5000,3001 AP242 managed_model_based_3d_engineering_bom,Support of all GRRs in AssemblyOccurrenceRelationship.placement,,SMRLv6
+5011,3001 AP242 managed_model_based_3d_engineering_bom,common.xsd,,SMRLv6
+4956,3001 AP242 managed_model_based_3d_engineering_bom,ConditionalEffectivity missing in SUPERTYPE clause of Effectivity,,SMRLv6
+4378,3001 AP242 managed_model_based_3d_engineering_bom,XML configuration specification missing,,CR9
+4379,3001 AP242 managed_model_based_3d_engineering_bom,Normative “BO Model XML schema listing” missing,SC4architecture,CR9
+4376,3001 AP242 managed_model_based_3d_engineering_bom,Annex B shall be normative,,CR9
+4380,3001 AP242 managed_model_based_3d_engineering_bom,EXPRESS-G navigation needs improvement,,CR9
+4280,3001 AP242 managed_model_based_3d_engineering_bom,Matrix positionning in the BOM used for implementation,AP242,CR9
+4375,3001 AP242 managed_model_based_3d_engineering_bom,The capabilities and their definitions are missing,,CR9
+4300,3001 AP242 managed_model_based_3d_engineering_bom,Allow subtypes of Part_version_view as types for Assembly_component_relationship.related,,CR9
+4294,3001 AP242 managed_model_based_3d_engineering_bom,Enhance the classification capability of the BO Model,AP242,CR9
+4349,3001 AP242 managed_model_based_3d_engineering_bom,Part_category and Document_category not needed as a BO.,,CR9
+4384,3001 AP242 managed_model_based_3d_engineering_bom,"Harmonization of the BO M with the modules inh the DMU area (axis plcmt and transformations, geoemtric models)",,CR9
+4274,3001 AP242 managed_model_based_3d_engineering_bom,Inconsistency in the supplied_object_select,AP242,CR9
+4262,3001 AP242 managed_model_based_3d_engineering_bom,Integrate Change Management Module,AP242,CR9
+4373,3001 AP242 managed_model_based_3d_engineering_bom,Reference to ISO 10303-28 missing,,CR9
+4296,3001 AP242 managed_model_based_3d_engineering_bom,"Consistency in the use of ""Event""",AP242,CR9
+4311,3001 AP242 managed_model_based_3d_engineering_bom,Change name from Cartesian_coordinate_space to Geometric_context,,CR9
+4742,3001 AP242 managed_model_based_3d_engineering_bom,Figure Numbering in Clause 4 and EXPRESS-G,,CR9
+4275,3001 AP242 managed_model_based_3d_engineering_bom,Case  is not respected in the BOM express file,AP242,CR9
+4279,3001 AP242 managed_model_based_3d_engineering_bom,Camelcase notation for the BO Model,AP242,CR9
+4371,3001 AP242 managed_model_based_3d_engineering_bom,Reference to “Annex H of ISO 10303-242” is not a hyperlink.,,CR9
+4374,3001 AP242 managed_model_based_3d_engineering_bom,"Note 1: Reference should go to Annex C instead E. Also, the link is broken.",,CR9
+4284,3001 AP242 managed_model_based_3d_engineering_bom,Change the presentation of the BOM because it is not a module,AP242,CR9
+4377,3001 AP242 managed_model_based_3d_engineering_bom,Numbering of Annex B,,CR9
+4297,3001 AP242 managed_model_based_3d_engineering_bom,Provide the description on how to create P28 instanciated file for the BO Model,AP242,CR9
+4301,3001 AP242 managed_model_based_3d_engineering_bom,Broken links in annex C back to clause 4,,CR9
+4345,3001 AP242 managed_model_based_3d_engineering_bom,"Change the type of all role (xxx_role), relation_type, xxx_type attributes (and maybe some other attributes)",,CR9
+4305,3001 AP242 managed_model_based_3d_engineering_bom,Header of page with figure C.9 needs repair,,CR9
+4270,3001 AP242 managed_model_based_3d_engineering_bom,Description of the BO Model capabilities,AP242,CR9
+4322,3001 AP242 managed_model_based_3d_engineering_bom,Numbering of headings is wrong (B.6 follows B.1.5.3),,CR9
+4372,3001 AP242 managed_model_based_3d_engineering_bom,Spelling,,CR9
+4326,3001 AP242 managed_model_based_3d_engineering_bom,UML Representation of the  BO Model EXPRESS / BO Model XSD is missing,,CR9
+4286,3001 AP242 managed_model_based_3d_engineering_bom,Provide the configuration file to transform Express file in XSD file,AP242,CR9
+4298,3001 AP242 managed_model_based_3d_engineering_bom,Link to annex E is broken,AP242,CR9
+4302,3001 AP242 managed_model_based_3d_engineering_bom,Replace “BO M” by “BO model”,,CR9
+4381,3001 AP242 managed_model_based_3d_engineering_bom,Inappropriate boilerplate text for Annex E,,CR9
+4346,3001 AP242 managed_model_based_3d_engineering_bom,Introduce camel case notation,,CR9
+4271,3001 AP242 managed_model_based_3d_engineering_bom,Mapping between AP242 BOM to the AP242 ARM,AP242,CR9
+4278,3001 AP242 managed_model_based_3d_engineering_bom,Aggregated selec type,AP242,CR9
+4370,3001 AP242 managed_model_based_3d_engineering_bom,Cover page: spelling error in Abstract,,CR9
+4347,3001 AP242 managed_model_based_3d_engineering_bom,Adopt the naming conventions resulting from the PLCS/AP242 harmonization activity,,CR9
+4272,3001 AP242 managed_model_based_3d_engineering_bom,Definition of a BO Model,,CR9
+4267,3001 AP242 managed_model_based_3d_engineering_bom,Harmonization between AP239 PSM and AP242 BOM,AP242,CR9
+4351,3001 AP242 managed_model_based_3d_engineering_bom,"rules (where, unique, etc.) needs documentation",,CR9
+4358,3001 AP242 managed_model_based_3d_engineering_bom,Ensure interoperability between AP 242 AIM based technology and AP 242 BO model XML based technology,AP242,CR9
+4307,3001 AP242 managed_model_based_3d_engineering_bom,Include composites into the BO model,,CR9
+4268,3001 AP242 managed_model_based_3d_engineering_bom,BO Model term,AP242,CR9
+4314,3001 AP242 managed_model_based_3d_engineering_bom,Add bi-directional BO to AIM mappings,,CR9
+4266,3001 AP242 managed_model_based_3d_engineering_bom,Level of detail of the AP242 documentation,AP242,CR9
+4269,3001 AP242 managed_model_based_3d_engineering_bom,Description via the STEP modules,,CR9
+4350,3001 AP242 managed_model_based_3d_engineering_bom,inverse and derived attributes needs documentation,,CR9
+4246,3001 AP242 managed_model_based_3d_engineering_bom,Remove organization.additionalId,AP242,CR9
+4312,3001 AP242 managed_model_based_3d_engineering_bom,Harmonize property BO representations between AP242 and AP209,,CR9
+4354,3001 AP242 managed_model_based_3d_engineering_bom,Annotations in the XML schema,AP242,CR9
+4249,3001 AP242 managed_model_based_3d_engineering_bom,Define all elements of type DateAndPersonOrganization as DateAndPersonOrganization instead of IDREFS,AP242,CR9
+4321,3001 AP242 managed_model_based_3d_engineering_bom,Mapping rules from EXPRESS to XSD needs change,,CR9
+4357,3001 AP242 managed_model_based_3d_engineering_bom,Align XML schema with the Part28,AP242,CR9
+4324,3001 AP242 managed_model_based_3d_engineering_bom,XSD needs replacement,,CR9
+4328,3001 AP242 managed_model_based_3d_engineering_bom,Change the name and description mechanism,,CR9
+4331,3001 AP242 managed_model_based_3d_engineering_bom,Change the Date_Time_Assignment mechanism,,CR9
+4288,3001 AP242 managed_model_based_3d_engineering_bom,Review the breakdown select type,AP242,CR9
+4142,3001 AP242 managed_model_based_3d_engineering_bom,Unable to have Breakdown of Requirement or Document_definition,AP242,CR9
+4334,3001 AP242 managed_model_based_3d_engineering_bom,Change the Property mechanism,,CR9
+4337,3001 AP242 managed_model_based_3d_engineering_bom,Add the Assembly mechanism (between definitions),,CR9
+4340,3001 AP242 managed_model_based_3d_engineering_bom,Change the Breakdown mechanism,,CR9
+4385,3001 AP242 managed_model_based_3d_engineering_bom,To represent simple assemblies of the type that the CAx-IF share currently.,,CR9
+4348,3001 AP242 managed_model_based_3d_engineering_bom,Adopt other results proposed by the harmonization activity between AP242 BO Model and PLCS PSM,,CR9
+4313,3001 AP242 managed_model_based_3d_engineering_bom,Add Uncertainty_with_unit to the BO model,,CR9
+4273,3001 AP242 managed_model_based_3d_engineering_bom,AP242 BOM XSD file and Express file are different,AP242,CR9
+4355,3001 AP242 managed_model_based_3d_engineering_bom,Align XML Schema and Express Schema,AP242,CR9
+4276,3001 AP242 managed_model_based_3d_engineering_bom,BOM XSD validation,AP242,CR9
+4329,3001 AP242 managed_model_based_3d_engineering_bom,Change the classification mechanism,,CR9
+4332,3001 AP242 managed_model_based_3d_engineering_bom,Change the File mechanism,,CR9
+4335,3001 AP242 managed_model_based_3d_engineering_bom,Add the Qualifier mechanism,,CR9
+4292,3001 AP242 managed_model_based_3d_engineering_bom,Abstract entities without subtypes,AP242,CR9
+4459,3001 AP242 managed_model_based_3d_engineering_bom,Add a way to assign Activity_method to entity on that we could assign an Activity,,CR9
+4338,3001 AP242 managed_model_based_3d_engineering_bom,Change the Assembly mechanism (between definitions and occurrences),,CR9
+4261,3001 AP242 managed_model_based_3d_engineering_bom,Add Alternative_solution to all SELECT types where Breakdown_element ist already defined,AP242,CR9
+4341,3001 AP242 managed_model_based_3d_engineering_bom,Change the Physical_instance mechanism,,CR9
+4245,3001 AP242 managed_model_based_3d_engineering_bom,Change type of organization.id from IdWithContext to STRING,AP242,CR9
+4353,3001 AP242 managed_model_based_3d_engineering_bom,Align Express and XML schema,AP242,CR9
+4248,3001 AP242 managed_model_based_3d_engineering_bom,Remove XML-Element DateAndPersonOrganization from Organization,AP242,CR9
+4356,3001 AP242 managed_model_based_3d_engineering_bom,Number of translation for Description and Name,AP242,CR9
+4323,3001 AP242 managed_model_based_3d_engineering_bom,XML configuration specification is missing,,CR9
+4327,3001 AP242 managed_model_based_3d_engineering_bom,Change the identification mechanism,,CR9
+4281,3001 AP242 managed_model_based_3d_engineering_bom,Inconsistent usage of product and part term,AP242,CR9
+4330,3001 AP242 managed_model_based_3d_engineering_bom,Change the unit mechanism,,CR9
+4287,3001 AP242 managed_model_based_3d_engineering_bom,Unicity between an Id and it's context,AP242,CR9
+4333,3001 AP242 managed_model_based_3d_engineering_bom,Change the Application_Context mechanism,,CR9
+4290,3001 AP242 managed_model_based_3d_engineering_bom,Representation of the application protocol in the BOM implementation,AP242,CR9
+4457,3001 AP242 managed_model_based_3d_engineering_bom,Geometric_context,AP242,CR9
+4336,3001 AP242 managed_model_based_3d_engineering_bom,Change the Part_instance mechanism,,CR9
+4339,3001 AP242 managed_model_based_3d_engineering_bom,Change the Part mechanism,,CR9
+4342,3001 AP242 managed_model_based_3d_engineering_bom,Change the Requirements mechanism,,CR9
+4303,3001 AP242 managed_model_based_3d_engineering_bom,Mapping of Id_with_context.description to the AIM,,CR9
+4480,3001 AP242 managed_model_based_3d_engineering_bom,Make all name-attributes DescriptorSelect,AP242,CR9
+4461,3001 AP242 managed_model_based_3d_engineering_bom,Add Part_version_view_relationship to classified_element_select,,CR9
+4310,3001 AP242 managed_model_based_3d_engineering_bom,Add id-attribute to BO Cartesian_coordinate_space,,CR9
+4247,3001 AP242 managed_model_based_3d_engineering_bom,Organization.Name als XML-Element is redundant with Organization.Name as XML-Attribute,AP242,CR9
+4478,3001 AP242 managed_model_based_3d_engineering_bom,Change the sequence of attributes for BO Document,AP242,CR9
+4481,3001 AP242 managed_model_based_3d_engineering_bom,Should not ShapeDescriptionAssociation.role be a classification?,AP242,CR9
+4289,3001 AP242 managed_model_based_3d_engineering_bom,Specification Breakdown and Configuration capability,AP242,CR9
+4479,3001 AP242 managed_model_based_3d_engineering_bom,Change DocumentDefinition.documentCcontent to DocumentDefinition.documentContent,AP242,CR9
+4482,3001 AP242 managed_model_based_3d_engineering_bom,Should not ShapeDescriptionAssociation.definingGeometry include external models?,AP242,CR9
+4308,3001 AP242 managed_model_based_3d_engineering_bom,Replace BO axis_placement by BO coordinate_system,,CR9
+4758,3001 AP242 managed_model_based_3d_engineering_bom,Numers un-numbered NOTEs,,CR9
+4709,3001 AP242 managed_model_based_3d_engineering_bom,Physical and  Functional BreakdownElements,,CR9
+4713,3001 AP242 managed_model_based_3d_engineering_bom,PartOccurrence is embedded into ProductConfiguration,,CR9
+4716,3001 AP242 managed_model_based_3d_engineering_bom,meaning of Effectivity.EffectivityIndication,,CR9
+4708,3001 AP242 managed_model_based_3d_engineering_bom,Untyped references,,CR9
+4714,3001 AP242 managed_model_based_3d_engineering_bom,PropertyDefinition mandatory within NumericalValue,,CR9
+4718,3001 AP242 managed_model_based_3d_engineering_bom,ClassifiedAs missing,,CR9
+4715,3001 AP242 managed_model_based_3d_engineering_bom,Unit.Name of type ClassSelec,,CR9
+4454,3001 AP242 managed_model_based_3d_engineering_bom,Rename Numeric_value to Numeric_value_with_unit,AP242,CR9
+4291,3001 AP242 managed_model_based_3d_engineering_bom,Category versus Class,AP242,CR9
+4549,3001 AP242 managed_model_based_3d_engineering_bom,add capability diagram with links to clause 4.1,,CR9
+4295,3001 AP242 managed_model_based_3d_engineering_bom,ARM reference in the BO Model files,AP242,CR9
+4547,3001 AP242 managed_model_based_3d_engineering_bom,Introduce a new capability for EER,,CR9
+4293,3001 AP242 managed_model_based_3d_engineering_bom,Empty entity,AP242,CR9
+4463,3001 AP242 managed_model_based_3d_engineering_bom,test,,CR9
+3440,AP209 general,p52 wrapper modules,,CR9
+3536,AP209 general,Clean-up of AP209 modules,,CR9
+2270,AP214 general,SEDS #1196 Mapping of Physical_assembly_relationship.is_realization_of,AP242,CR7_242-1-CD
+4018,AP242 general,Change request for AP242,AP242,SMRLv5
+4538,AP242 general,AP242 select extensions mapping issues,,SMRLv5
+4686,AP242 general,Add AP242 support for IR112 ... procedurally represented 2D CAD models,AP242,SMRLv5
+3961,AP242 general,AP214 AIM select comparison with AP203ed2 for AP242,AP242,SMRLv6
+4174,AP242 general,Missing (empty) mapping in new AP242 modules,AP242,CR7_242-1-CD
+4501,AP242 general,"How to ""deal with"" ASME Y14.41-2012 Geometric Scale, Units, and Precision in STEP","AP242, GD&T",CR9
+4500,AP242 general,"How to ""deal with"" ASME Y14.41-2012 Resolved dimension in STEP","AP242, GD&T",CR9
+4546,AP242 general,Collector bug: Requirement to reference elements in one STEP file from another STEP file II,EER,CR9
+4531,AP242 general,collector for 242 dis pmi,"AP242, GD&T",CR9
+3926,AP242 general,Process_state(_relationship),AP242,CR9
+3960,AP242 general,Kinematic modules for AP242,AP242,CR9
+4004,AP242 general,Add AM Edge_shape_feature to AP242,AP242,CR9
+4105,AP242 general,"Adding new p41 entity ""anchor"" to modules","AP242, EER",CR9
+3966,AP242 general,Changing Mated_item_relationship.mated_shape to Component_feature_joint or subtype,AP242,CR9
+3930,AP242 general,Collector: AP203-214 differences on the AIM/MIM level,AP242,CR9
+3958,AP242 general,AP214 form features for AP242,AP242,CR9
+3964,AP242 general,Collector: AP214 ARM functionality not covered by AP203ed2,AP242,CR9
+4493,AP242 general,"Enforce ""document as product"" approach","AP242, GD&T",CR9
+4636,AP242 general,Changes from 2011-09-18,,CR9
+4615,AP242 general,242 DIS MIM integration for SMRL_C00009,"AP209, AP210, AP242",CR9
+4634,AP242 general,AP242 mapping errors for attributes with wrong type in mapping,AP242,CR9
+4652,AP242 general,Migrate Business Object Model data to new structure,,CR9
+3978,GD&T,Collector: ISO 5459 edition 2 coverage,"AP242, GD&T",SMRLv5
+3787,GD&T,add subtype of product definition and product definition context to identify specific gd&t specification(s),GD&T,CR7_242-1-CD
+3044,GD&T,ISO 14660-1: Real and extracted features,GD&T,CR9
+5105,modules general,Incorrect [warning] Message for CONSTANTs,,SMRLv6
+3280,modules general,Support of geometric constraints,AP242,CR7 PDQ-S
+3287,modules general,Rename Detailed_geometric_model_element to geometric_representation_item,AP242,CR7_242-1-CD
+4572,modules general,CR9 Collector bug,"AP209, AP210, AP242",CR9
+4622,modules general,extraneous bibliography.xml files in stepmod,,CR9
+4648,modules general,Comparison of stepmod CR9 with CR5Pub tag using cvs log,AP242,CR9
+4777,SMRL,Need PDF for 13584-20 and -42,"AP209, AP210, AP242",SMRLv5
+4769,SMRL,resource express file WG12 N number,,SMRLv5
+4782,SMRL,CR9 missing 10303-50 DAM1,"AP209, AP210, AP242",SMRLv5
+4804,SMRL,SMRLv5 Collector bug,"AP209, AP210, AP242",SMRLv5
+4726,SMRL,Invalid IR EXPRESS on STEPmod,,SMRLv5
+4674,SMRL,p42 bibliography entries in wrong order,AP242,SMRLv5
+4761,SMRL,Ballot comments and issue log for SMRL CR00009,,SMRLv5
+4778,SMRL,identifying withdrawn parts in SMRLv5,"AP209, AP210, AP242",SMRLv5
+4672,SMRL,IR object identification annex problems ballot comment,AP242,SMRLv5
+4675,SMRL,p101 bibliography entries in wrong order,AP242,SMRLv5
+4676,SMRL,p101 norm ref entries in wrong order,AP242,SMRLv5
+3893,SMRL,"CR for PDQ-S, parametrization and constraint",,CR7 PDQ-S
+4687,SMRL,SMRL CR00009 module addition,"AP209, AP210, AP242",CR9
